@@ -1,3 +1,4 @@
 let i = 5;
 let j = i + 5;
-console.log(i, j);
+let k = j + i;
+console.log(i, j, k);
